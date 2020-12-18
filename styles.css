@@ -111,3 +111,16 @@ transform: scale(1.2);
 .copyright{
   margin : 40px auto 10px ;
 }
+
+@media (max-width : 1200px) {
+.top-container img{
+  width : 20rem;
+}
+.cloud-bottom {
+  top : 50px;
+}
+.profile h1{
+  font-size: 2rem;
+}
+}
+
